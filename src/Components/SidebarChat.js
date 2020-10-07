@@ -23,7 +23,6 @@ function SidebarChat({ addNewChat }) {
             <div className="sidebarChat__info">
                 <h2>Room Name</h2>
                 <p>Last message...</p>
-                <p>Last message...</p>
 
             </div>
         </div>
